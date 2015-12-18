@@ -1,4 +1,4 @@
-# $Id: PKGBUILD 153365 2015-12-15 09:39:47Z fyan $
+# $Id$
 # Maintainer: Ionut Biru <ibiru@archlinux.org>
 
 _pkgbasename=pcre
